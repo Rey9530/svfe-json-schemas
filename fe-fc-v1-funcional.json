@@ -1,0 +1,109 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "01",
+        "numeroControl": "DTE-01-M001P001-000000000011178",
+        "codigoGeneracion": "4B166DBE-D99D-5091-ABDD-95B83330ED3A",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "tipoContingencia": null,
+        "motivoContin": null,
+        "fecEmi": "2024-01-30",
+        "horEmi": "18:30:50",
+        "tipoMoneda": "USD"
+    },
+    "documentoRelacionado": null, 
+    "otrosDocumentos": null, 
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": null,
+        "tipoEstablecimiento": "02",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "codPuntoVentaMH": null,
+        "codPuntoVenta": null,
+        "codEstableMH": null,
+        "codEstable": null,
+        "correo": "thomas.pineda@gmail.com"
+    },
+    "receptor": {
+        "tipoDocumento": "36",
+        "numDocumento": "051754733",
+        "nrc": null,
+        "nombre": "REYNALDO ALEXANDER  RUIZ ROSALES ",
+        "codActividad": "10005",
+        "descActividad": "OTROS",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "19",
+            "complemento": "LOTIFICACION EL FLORAL, CALLE EL SAUCE POL. G LOTE 6 SANTIAGO NONUALCO LA PAZ"
+        },
+        "telefono": "60004443",
+        "correo": "ALEX.REY.ROSALES.95@GMAIL.COM"
+    },
+    "ventaTercero": null,
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "tipoItem": 2,
+            "numeroDocumento": null,
+            "cantidad": 1,
+            "codigo": null,
+            "codTributo": null,
+            "uniMedida": 99,
+            "descripcion": "PAGO DE INTERESES TARJETA DE CREDITO 41598800242933",
+            "precioUni": 29.04,
+            "montoDescu": 0,
+            "ventaNoSuj": 0,
+            "ventaExenta": 29.04,
+            "ventaGravada": 0,
+            "tributos": null,
+            "psv": 0,
+            "noGravado": 0,
+            "ivaItem": 0
+        }
+    ],
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 29.04,
+        "totalGravada": 0,
+        "subTotalVentas": 29.04,
+        "descuNoSuj": 0,
+        "descuExenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "tributos": null,
+        "subTotal": 29.04,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "montoTotalOperacion": 29.04,
+        "totalNoGravado": 0,
+        "totalPagar": 29.04,
+        "totalLetras": "VEINTINUEVE DOLAR CON 04/100",
+        "totalIva": 0,
+        "saldoFavor": 0,
+        "condicionOperacion": 1,
+        "pagos": null,
+        "numPagoElectronico": null
+    },
+    "extension": {
+        "nombEntrega": null,
+        "docuEntrega": null,
+        "nombRecibe": null,
+        "docuRecibe": null,
+        "observaciones": "TOTAL TRANSACCION DE PAGO A TARJETA DE CREDITO 41598800242933 POR $  180.00",
+        "placaVehiculo": null
+    },
+    "apendice": null
+   
+}

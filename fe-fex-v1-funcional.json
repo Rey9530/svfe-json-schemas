@@ -1,0 +1,87 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "11",
+        "numeroControl": "DTE-11-ABCDEFGH-123456789012346",
+        "codigoGeneracion": "274CB3BB-33DD-5298-A608-D5B77F2B2322",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "tipoContingencia": null,
+        "motivoContigencia": null,
+        "fecEmi": "2024-01-31",
+        "horEmi": "15:30:00",
+        "tipoMoneda": "USD"
+    },
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": null,
+        "tipoEstablecimiento": "02",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "correo": "thomas.pineda@gmail.com",
+        "codPuntoVentaMH": null,
+        "codPuntoVenta": null,
+        "codEstableMH": null,
+        "codEstable": null,
+        "tipoItemExpor": 1,
+        "recintoFiscal": "99",
+        "regimen": "EX-3.3056.000"
+    },
+    "receptor": {
+        "nombre": "Importadora Internacional",
+        "codPais": "9905",
+        "nombrePais": "Estados Unidos",
+        "complemento": "1234 Import St, Ciudad, Estado",
+        "tipoDocumento": "13",
+        "numDocumento": "60988678-4",
+        "nombreComercial": "Importadora Intl",
+        "tipoPersona": 1,
+        "descActividad": "Importación de bienes",
+        "telefono": "987654321",
+        "correo": "contacto@importadora.com"
+    },
+    "otrosDocumentos": null,
+    "ventaTercero": null,
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "cantidad": 100,
+            "codigo": "PRD001",
+            "uniMedida": 1,
+            "descripcion": "Producto de Exportación",
+            "precioUni": 10.00,
+            "montoDescu": 0.00,
+            "ventaGravada": 1000.00,
+            "tributos": null,
+            "noGravado": 0.00
+        }
+    ],
+    "resumen": {
+        "totalGravada": 1000.00,
+        "descuento": 0.00,
+        "porcentajeDescuento": 0.00,
+        "totalDescu": 0.00,
+        "montoTotalOperacion": 1000.00,
+        "totalNoGravado": 0.00,
+        "totalPagar": 1000.00,
+        "totalLetras": "Mil dólares",
+        "condicionOperacion": 1,
+        "pagos": null,
+        "codIncoterms": null,
+        "descIncoterms": null,
+        "numPagoElectronico": null,
+        "observaciones": null,
+        "flete": 0.01,
+        "seguro": 0.01
+    },
+    "apendice": null
+}
