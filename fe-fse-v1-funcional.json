@@ -1,0 +1,89 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "14",
+        "numeroControl": "DTE-14-ABCDEFGH-123456789012345",
+        "codigoGeneracion": "ABCDEF12-3456-7890-ABCD-1234567890AB",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "tipoContingencia": null,
+        "motivoContin": null,
+        "fecEmi": "2024-01-31",
+        "horEmi": "15:30:00",
+        "tipoMoneda": "USD"
+    },
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico", 
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "codPuntoVentaMH": null,
+        "codPuntoVenta": null,
+        "codEstableMH": null,
+        "codEstable": null,
+        "correo": "thomas.pineda@gmail.com"
+    },
+    "sujetoExcluido": {
+        "tipoDocumento": "13",
+        "numDocumento": "987654321",
+        "nombre": "Cliente Ejemplo",
+        "codActividad": null,
+        "descActividad": null,
+        "direccion": {
+            "departamento": "02",
+            "municipio": "05",
+            "complemento": "Avenida Ejemplo #456, Barrio Ejemplo"
+        },
+        "telefono": "87654321",
+        "correo": null
+    },
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "tipoItem": 1,
+            "cantidad": 2,
+            "codigo": "PROD123",
+            "uniMedida": 1,
+            "descripcion": "Computadora portátil marca Ejemplo",
+            "precioUni": 500.00,
+            "montoDescu": 0.00,
+            "compra": 1000.00
+        }
+    ],
+    "resumen": {
+        "totalCompra": 1000.00,
+        "descu": 0.00,
+        "totalDescu": 0.00,
+        "subTotal": 1000.00,
+        "ivaRete1": 0.00,
+        "reteRenta": 0.00,
+        "totalPagar": 1000.00,
+        "totalLetras": "Mil dólares",
+        "condicionOperacion": 1,
+        "pagos": [
+            {
+                "codigo": "01",
+                "montoPago": 1000.00,
+                "referencia": null,
+                "plazo": null,
+                "periodo": null
+            }
+        ],
+        "observaciones": null
+    },
+    "apendice": [
+        {
+            "campo": "campoEjemplo",
+            "etiqueta": "Etiqueta Ejemplo",
+            "valor": "Valor Ejemplo"
+        }
+    ]
+}

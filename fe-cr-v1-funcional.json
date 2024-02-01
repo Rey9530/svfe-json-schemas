@@ -1,0 +1,78 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "07",
+        "numeroControl": "DTE-07-ABCDEFGH-123456789012341",
+        "codigoGeneracion": "FC1FADDE-AFB0-5DA0-823D-7FB8D99CD16A",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "tipoContingencia": null,
+        "motivoContin": null,
+        "fecEmi": "2024-01-31",
+        "horEmi": "15:00:00",
+        "tipoMoneda": "USD"
+    },
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": "Electrónicos S.A.",
+        "tipoEstablecimiento": "01",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "correo": "thomas.pineda@gmail.com",
+        "codigoMH": "0001",
+        "codigo": "E001",
+        "puntoVentaMH": "PV01",
+        "puntoVenta": "PV02"
+    },
+    "receptor": {
+        "tipoDocumento": "36",
+        "numDocumento": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "Cliente Final",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": null,
+        "direccion": {
+            "departamento": "02",
+            "municipio": "05",
+            "complemento": "Avenida Cliente No. 200, Ciudad Secundaria"
+        },
+        "telefono": null,
+        "correo": "cliente@ejemplo.com"
+    },
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "tipoDte": "14",
+            "tipoDoc": 1,
+            "numDocumento": "FAC12345678",
+            "fechaEmision": "2024-01-30",
+            "montoSujetoGrav": 100.00,
+            "codigoRetencionMH": "22",
+            "ivaRetenido": 1.00,
+            "descripcion": "Retención sobre compra de material de oficina"
+        }
+    ],
+    "resumen": {
+        "totalSujetoRetencion": 100.00,
+        "totalIVAretenido": 1.00,
+        "totalIVAretenidoLetras": "Trece dólares"
+    },
+    "extension": null,
+    "apendice": [
+        {
+            "campo": "Observaciones",
+            "etiqueta": "Observaciones Generales",
+            "valor": "Ninguna observación adicional"
+        }
+    ]
+}

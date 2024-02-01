@@ -1,0 +1,90 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "15",
+        "numeroControl": "DTE-15-ABCDEFGH-123456789012345",
+        "codigoGeneracion": "7CD482B0-F683-5EF3-BF3F-8B3BF4F80F5B",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "fecEmi": "2024-01-31",
+        "horEmi": "15:45:00",
+        "tipoMoneda": "USD"
+    },
+    "donatario": {
+        "tipoDocumento": "36",
+        "numDocumento": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico", 
+        "nombreComercial": "Venta al por menor de computadoras y equipo periférico",
+        "tipoEstablecimiento": "01",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "correo": "thomas.pineda@gmail.com",
+        "codPuntoVentaMH": null,
+        "codPuntoVenta": null,
+        "codEstableMH": null,
+        "codEstable": null
+    },
+    "donante": {
+        "tipoDocumento": "36",
+        "numDocumento": "14031610831015",
+        "nrc": null,
+        "nombre": "Juan Pérez",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",  
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "correo": "thomas.pineda@gmail.com",
+        "codDomiciliado": 1,
+        "codPais": "9320"
+    },
+    "otrosDocumentos": [
+        {
+            "codDocAsociado": 1,
+            "descDocumento": "Factura de compra",
+            "detalleDocumento": "Factura relacionada a la donación, número 1234"
+        }
+    ],
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "tipoDonacion": 1,
+            "cantidad": 10,
+            "codigo": "ABC123",
+            "uniMedida": 99,
+            "descripcion": "Libros educativos",
+            "depreciacion": 0,
+            "valorUni": 15,
+            "valor": 150
+        }
+    ],
+    "resumen": {
+        "valorTotal": 150,
+        "totalLetras": "Ciento cincuenta dólares",
+        "pagos": [
+            {
+                "codigo": "01",
+                "montoPago": 150,
+                "referencia": "Pago único"
+            }
+        ]
+    },
+    "apendice": [
+        {
+            "campo": "Observaciones",
+            "etiqueta": "Comentarios adicionales",
+            "valor": "Donación de libros a la organización para apoyo educativo."
+        }
+    ]
+}

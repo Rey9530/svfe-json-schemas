@@ -1,0 +1,83 @@
+{
+    "identificacion": {
+        "version": 1,
+        "ambiente": "00",
+        "tipoDte": "09",
+        "numeroControl": "DTE-09-ABCDEFGH-123456789012335",
+        "codigoGeneracion": "7FD4A6A9-E2D4-59D0-BD07-AFF8ED4CF979",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "fecEmi": "2024-01-31",
+        "horEmi": "10:00:00",
+        "tipoMoneda": "USD"
+    },
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": "Electrónicos S.A.",
+        "tipoEstablecimiento": "01",
+        "telefono": "(503) 6103-5364",
+        "correo": "thomas.pineda@gmail.com",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "codigoMH": "0001",
+        "codigo": "0001",
+        "puntoVentaMH": "PV01",
+        "puntoVentaContri": "PV01"
+    },
+    "receptor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "Cliente Receptor S.A.",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": "Receptor Comercial",
+        "tipoEstablecimiento": "01",
+        "direccion": {
+            "departamento": "02",
+            "municipio": "05",
+            "complemento": "Avenida Secundaria 456, Barrio Industrial"
+        },
+        "telefono": "87654321",
+        "correo": "contacto@clientereceptor.com",
+        "codigoMH": "0002",
+        "puntoVentaMH": "PV02"
+    },
+    "cuerpoDocumento": {
+        "periodoLiquidacionFechaInicio": "2024-01-01",
+        "periodoLiquidacionFechaFin": "2024-01-31",
+        "codLiquidacion": "LQ123456789",
+        "cantidadDoc": 2,
+        "valorOperaciones": 250.00,
+        "montoSinPercepcion": 0,
+        "descripSinPercepcion": null,
+        "subTotal": 250.00,
+        "iva": 28.77,
+        "montoSujetoPercepcion": 221.23,
+        "ivaPercibido": 4.42,
+        "comision": 11.06,
+        "porcentComision": 0.0,
+        "ivaComision": 1.44,
+        "liquidoApagar": 233.08,
+        "totalLetras": "Cuatro mil setecientos cincuenta dólares",
+        "observaciones": "Liquidación de enero"
+    },
+    "extension": {
+        "nombEntrega": "Juan Pérez",
+        "docuEntrega": "12345678",
+        "codEmpleado": "EMP123"
+    },
+    "apendice": [
+        {
+            "campo": "Condición de pago",
+            "etiqueta": "Condición",
+            "valor": "Pago al contado"
+        }
+    ]
+}

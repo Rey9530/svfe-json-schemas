@@ -1,0 +1,100 @@
+{
+  "identificacion": {
+    "version": 1,
+    "ambiente": "00",
+    "tipoDte": "08",
+    "numeroControl": "DTE-08-ABCDEFGH-123456789012345",
+    "codigoGeneracion": "A5EC34BD-6D2F-5DB0-8A8C-5F7C63AE05C4",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "fecEmi": "2024-01-31",
+    "horEmi": "15:45:00",
+    "tipoMoneda": "USD"
+  },
+  "emisor": {
+    "nit": "14031610831015",
+    "nrc": "2676964",
+    "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+    "codActividad": "47411",
+    "descActividad": "Venta al por menor de computadoras y equipo periférico",
+    "nombreComercial": "Electrónicos S.A.",
+    "tipoEstablecimiento": "01",
+    "direccion": {
+      "departamento": "08",
+      "municipio": "12",
+      "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+    },
+    "telefono": "(503) 6103-5364",
+    "correo": "thomas.pineda@gmail.com",
+    "codPuntoVentaMH": null,
+    "codPuntoVenta": null,
+    "codEstableMH": null,
+    "codEstable": null
+  },
+  "receptor": {
+    "nit": "06142502191072",
+    "nrc": "2676964",
+    "nombre": "Compañía Receptora S.A.",
+    "codActividad": "54321",
+    "descActividad": "Comercio al detalle de productos de consumo",
+    "nombreComercial": "Comercio Detallista",
+    "direccion": {
+      "departamento": "02",
+      "municipio": "03",
+      "complemento": "Avenida Secundaria 456, Barrio Comercial"
+    },
+    "telefono": "87654321",
+    "correo": "contacto@companiareceptora.com"
+  },
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoDte": "01",
+      "tipoGeneracion": 1,
+      "numeroDocumento": "F123456789",
+      "fechaGeneracion": "2024-01-31",
+      "ventaNoSuj": 0,
+      "ventaExenta": 0,
+      "ventaGravada": 1000,
+      "exportaciones": 0,
+      "tributos": [
+        "20"
+      ],
+      "ivaItem": 130,
+      "obsItem": "Venta de producto electrónico"
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0,
+    "totalExenta": 0,
+    "totalGravada": 1000,
+    "totalExportacion": 0,
+    "subTotalVentas": 1000,
+    "tributos": [
+      {
+        "codigo": "20",
+        "descripcion": "IVA",
+        "valor": 130
+      }
+    ],
+    "montoTotalOperacion": 1130,
+    "ivaPerci": 130,
+    "total": 1130,
+    "totalLetras": "Mil ciento treinta",
+    "condicionOperacion": 1
+  },
+  "extension": {
+    "nombEntrega": "Juan Pérez",
+    "docuEntrega": "DUI 12345678-9",
+    "nombRecibe": "María López",
+    "docuRecibe": "DUI 98765432-1",
+    "observaciones": "Entrega verificada por ambos representantes."
+  },
+  "apendice": [
+    {
+      "campo": "CondEntrega",
+      "etiqueta": "Condiciones de Entrega",
+      "valor": "Entrega inmediata en bodega central"
+    }
+  ]
+}

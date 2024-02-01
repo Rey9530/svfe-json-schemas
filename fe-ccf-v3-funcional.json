@@ -1,0 +1,107 @@
+{
+    "identificacion": {
+        "version": 3,
+        "ambiente": "00",
+        "tipoDte": "03",
+        "numeroControl": "DTE-03-ABCDEFGH-123456789012345",
+        "codigoGeneracion": "394CFFAC-89AB-5D57-91DD-76DE686958B1",
+        "tipoModelo": 1,
+        "tipoOperacion": 1,
+        "tipoContingencia": null,
+        "motivoContin": null,
+        "fecEmi": "2024-01-31",
+        "horEmi": "23:59:59",
+        "tipoMoneda": "USD"
+    },
+    "documentoRelacionado": [
+        {
+            "tipoDocumento": "04",
+            "tipoGeneracion": 1,
+            "numeroDocumento": "123456798654",
+            "fechaEmision": "2024-01-30"
+        }
+    ],
+    "emisor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "ESPERANZA ELIZABEL CANALES BONILLA",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": null,
+        "tipoEstablecimiento": "02",
+        "direccion": {
+            "departamento": "08",
+            "municipio": "12",
+            "complemento": "27 Calle Poniente Y Avenida España #1434 Barrio San Miguelito"
+        },
+        "telefono": "(503) 6103-5364",
+        "codPuntoVentaMH": null,
+        "codPuntoVenta": null,
+        "codEstableMH": null,
+        "codEstable": null,
+        "correo": "thomas.pineda@gmail.com"
+    },
+    "receptor": {
+        "nit": "14031610831015",
+        "nrc": "2676964",
+        "nombre": "Compañía Receptora S.A. de C.V.",
+        "codActividad": "47411",
+        "descActividad": "Venta al por menor de computadoras y equipo periférico",
+        "nombreComercial": "Importadora Internacional",
+        "direccion": {
+            "departamento": "02",
+            "municipio": "01",
+            "complemento": "Avenida Siempre Viva 456"
+        },
+        "telefono": "87654321",
+        "correo": "info@companiareceptora.com"
+    },
+    "otrosDocumentos": null,
+    "ventaTercero": null,
+    "cuerpoDocumento": [
+        {
+            "numItem": 1,
+            "tipoItem": 1,
+            "numeroDocumento": "123456798654",
+            "codigo": "PROD001",
+            "codTributo": null,
+            "descripcion": "Producto de prueba",
+            "cantidad": 10,
+            "uniMedida": 1,
+            "precioUni": 100,
+            "montoDescu": 0,
+            "ventaNoSuj": 0,
+            "ventaExenta": 0,
+            "ventaGravada": 1000,
+            "tributos": null,
+            "psv": 0,
+            "noGravado": 0
+        }
+    ],
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 1000,
+        "subTotalVentas": 1000,
+        "descuNoSuj": 0,
+        "descuExenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "tributos": null,
+        "subTotal": 1000,
+        "ivaPerci1": 0,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "montoTotalOperacion": 1000,
+        "totalNoGravado": 0,
+        "totalPagar": 1000,
+        "totalLetras": "mil dólares",
+        "saldoFavor": 0,
+        "condicionOperacion": 1,
+        "pagos": null,
+        "numPagoElectronico": null
+    },
+    "extension": null,
+    "apendice": null
+}
