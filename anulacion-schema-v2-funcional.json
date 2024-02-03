@@ -1,0 +1,46 @@
+{
+	"identificacion": {
+	  "version": 2,
+	  "ambiente": "01",
+	  "codigoGeneracion": "A1B2C3D4-E5F6-G7H8-I9J0-K1L2M3N4O5P6",
+	  "fecAnula": "2024-01-31",
+	  "horAnula": "15:00:00"
+	},
+	"emisor": {
+	  "nit": "12345678901234",
+	  "nombre": "Empresa de Ejemplo S.A.",
+	  "tipoEstablecimiento": "01",
+	  "nomEstablecimiento": "Establecimiento Principal",
+	  "codEstableMH": "0001",
+	  "codEstable": "EJ001",
+	  "codPuntoVentaMH": "PV01",
+	  "codPuntoVenta": "PV001",
+	  "telefono": "12345678",
+	  "correo": "info@empresa.com"
+	},
+	"documento": {
+	  "tipoDte": "01",
+	  "codigoGeneracion": "D4E5F6G7-H8I9-J0K1-L2M3-N4O5P6Q7R8S9",
+	  "selloRecibido": "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
+	  "numeroControl": "DTE-01-ABCDEFGH-123456789012345",
+	  "fecEmi": "2024-01-30",
+	  "montoIva": 150.00,
+	  "codigoGeneracionR": null,
+	  "tipoDocumento": "36",
+	  "numDocumento": "12345678901234",
+	  "nombre": "Cliente de Ejemplo",
+	  "telefono": "87654321",
+	  "correo": "cliente@example.com"
+	},
+	"motivo": {
+	  "tipoAnulacion": 1,
+	  "motivoAnulacion": "Error en datos del receptor",
+	  "nombreResponsable": "Juan Pérez",
+	  "tipDocResponsable": "36",
+	  "numDocResponsable": "12345678901234",
+	  "nombreSolicita": "Ana López",
+	  "tipDocSolicita": "36",
+	  "numDocSolicita": "98765432109876"
+	}
+  }
+  
