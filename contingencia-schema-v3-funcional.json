@@ -1,0 +1,36 @@
+{
+    "identificacion": {
+        "version": 3,
+        "ambiente": "01",
+        "codigoGeneracion": "123E4567-E89B-12D3-A456-426614174000",
+        "fTransmision": "2024-02-09",
+        "hTransmision": "15:00:00"
+    },
+    "emisor": {
+        "nit": "12345678901234",
+        "nombre": "Empresa Ejemplo S.A.",
+        "nombreResponsable": "Juan Pérez",
+        "tipoDocResponsable": "36",
+        "numeroDocResponsable": "123456789",
+        "tipoEstablecimiento": "01",
+        "codEstableMH": "1234",
+        "codPuntoVenta": "A1",
+        "telefono": "12345678",
+        "correo": "info@empresa.com"
+    },
+    "detalleDTE": [
+        {
+            "noItem": 1,
+            "codigoGeneracion": "123E4567-E89B-12D3-A456-426614174001",
+            "tipoDoc": "01"
+        }
+    ],
+    "motivo": {
+        "fInicio": "2024-02-09",
+        "fFin": "2024-02-10",
+        "hInicio": "08:00:00",
+        "hFin": "18:00:00",
+        "tipoContingencia": 2,
+        "motivoContingencia": "Mantenimiento del sistema"
+    }
+}
